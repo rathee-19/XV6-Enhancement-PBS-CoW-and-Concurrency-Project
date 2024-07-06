@@ -3,6 +3,8 @@
 ## Overview
 
 This project enhances the XV6 operating system with networking and concurrency capabilities. The key features implemented include Preemptive Priority-Based Scheduling (PBS) and Copy-On-Write (CoW) functionality. These enhancements improve the system's efficiency, responsiveness, and resource utilization.
+## Resources
+- [Insturctions](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp3)
 
 ## Features
 
